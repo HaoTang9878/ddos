@@ -29,3 +29,5 @@ $ python ddosV1.py
 - 本工具仅限授权测试使用！
 - 禁止用于任何非法攻击
 - 使用者需自行承担法律责任。
+###BTC捐赠地址：
+13siKzvBg96RYBS54BPpF7dD7DYgnFMr44
